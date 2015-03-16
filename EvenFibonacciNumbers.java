@@ -11,7 +11,7 @@ import java.util.ArrayList;
  * 
  * @author joeytawadrous
  */
-public class SumOfEvenFibonacciNumbers 
+public class EvenFibonacciNumbers 
 {
 	private static ArrayList<Integer> numbers = new ArrayList<Integer>();
 
